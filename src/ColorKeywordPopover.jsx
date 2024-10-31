@@ -17,19 +17,7 @@ const ColorKeywordPopover = () => {
   const [colors, setColors] = useState([
     {
       color: '#ff0000',
-      keywords: [
-        '정기 PM',
-        '환자LOT',
-        'PM',
-        '2K',
-        '3K',
-        '4K',
-        '5K',
-        '2k',
-        '3k',
-        '4k',
-        '5k',
-      ],
+      keywords: ['정기 PM', '환자LOT'],
     },
     { color: '#0000ff', keywords: ['1K', '1k'] },
   ])

@@ -1,8 +1,6 @@
-# React + Vite
+# 키워드별로 색상 선택
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 색상별 키워드 입력
+- 키워드 추가/삭제
+- 색상별 키워드 전체 삭제
+- 색상 추가
